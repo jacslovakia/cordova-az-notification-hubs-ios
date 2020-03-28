@@ -1,0 +1,33 @@
+{
+  "name": "cordova-az-notification-hubs-ios",
+  "version": "1.0.0",
+  "description": "Cordova Plugin of Azure notification hubs for iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacslovakia/cordova-az-notification-hubs-ios.git"
+  },
+  "author": "jacslovakia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacslovakia/cordova-az-notification-hubs-ios/issues"
+  },
+  "homepage": "https://github.com/jacslovakia/cordova-az-notification-hubs-ios#readme",
+  "cordova": {
+    "id": "cordova-azure-notification-hubs",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova-ios": ">=4.5.0",
+        "cordova": ">=7.1.0"
+      }
+    }
+  }
+}
