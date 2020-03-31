@@ -1,6 +1,6 @@
 {
   "name": "cordova-az-notification-hubs-ios",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Cordova Plugin of Azure notification hubs for iOS",
   "main": "index.js",
   "scripts": {
